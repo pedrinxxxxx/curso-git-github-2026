@@ -2,4 +2,5 @@
 
 Um curso para iniciantes
 aprenderem a trabalhar com
-versionamento do git e github
+versionamento do git e GitHub sla
+
